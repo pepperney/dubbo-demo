@@ -1,0 +1,609 @@
+[INFO ][20170331 15:29:02,472][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 15:29:26,399][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 15:30:47,849][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 15:30:48,203][AbstractConfig$1:450]  [DUBBO] Run shutdown hook now., dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 15:30:48,205][AbstractRegistryFactory:63]  [DUBBO] Close all registries [], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 15:31:54,682][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 15:31:55,068][AbstractConfig$1:450]  [DUBBO] Run shutdown hook now., dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 15:31:55,069][AbstractRegistryFactory:63]  [DUBBO] Close all registries [], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 15:34:07,667][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 15:34:08,000][AbstractConfig$1:450]  [DUBBO] Run shutdown hook now., dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 15:34:08,001][AbstractRegistryFactory:63]  [DUBBO] Close all registries [], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 15:36:13,621][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 15:36:13,954][AbstractConfig$1:450]  [DUBBO] Run shutdown hook now., dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 15:36:13,956][AbstractRegistryFactory:63]  [DUBBO] Close all registries [], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 15:39:54,599][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 15:39:54,927][AbstractConfig$1:450]  [DUBBO] Run shutdown hook now., dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 15:39:54,928][AbstractRegistryFactory:63]  [DUBBO] Close all registries [], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:30:01,964][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 16:30:02,278][AbstractConfig$1:450]  [DUBBO] Run shutdown hook now., dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:30:02,279][AbstractRegistryFactory:63]  [DUBBO] Close all registries [], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:37:29,549][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 16:37:29,926][AbstractConfig$1:450]  [DUBBO] Run shutdown hook now., dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:37:29,927][AbstractRegistryFactory:63]  [DUBBO] Close all registries [], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:42:49,649][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 16:42:50,166][ServiceBean:107]  [DUBBO] The service ready on spring started. service: com.pepper.common.service.UserService, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:42:50,315][ServiceConfig:510]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to local registry, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:42:50,315][ServiceConfig:470]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5992&side=provider&timestamp=1490949770195, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:42:50,315][ServiceConfig:481]  [DUBBO] Register dubbo service com.pepper.common.service.UserService url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5992&side=provider&timestamp=1490949770195 to registry registry://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=dubbo-provider&dubbo=2.5.3&pid=5992&registry=zookeeper&timestamp=1490949770178, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:42:50,574][AbstractServer:69]  [DUBBO] Start NettyServer bind /0.0.0.0:20880, export /192.168.56.1:20880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:42:50,597][ZkEventThread:64] Starting ZkClient event thread.
+[INFO ][20170331 16:44:30,227][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 16:44:30,766][ServiceBean:107]  [DUBBO] The service ready on spring started. service: com.pepper.common.service.UserService, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:44:30,900][ServiceConfig:510]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to local registry, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:44:30,901][ServiceConfig:470]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4020&side=provider&timestamp=1490949870799, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:44:30,901][ServiceConfig:481]  [DUBBO] Register dubbo service com.pepper.common.service.UserService url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4020&side=provider&timestamp=1490949870799 to registry registry://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=dubbo-provider&dubbo=2.5.3&pid=4020&registry=zookeeper&timestamp=1490949870778, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:44:31,167][AbstractServer:69]  [DUBBO] Start NettyServer bind /0.0.0.0:20880, export /192.168.56.1:20880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:44:31,196][ZkEventThread:64] Starting ZkClient event thread.
+[INFO ][20170331 16:44:31,248][ZkClient:449] zookeeper state changed (SyncConnected)
+[INFO ][20170331 16:44:31,250][AbstractRegistry:302]  [DUBBO] Register: dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4020&side=provider&timestamp=1490949870799, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:44:31,345][AbstractRegistry:325]  [DUBBO] Subscribe: provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4020&side=provider&timestamp=1490949870799, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 16:44:31,408][AbstractRegistry:422]  [DUBBO] Notify urls for subscribe url provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4020&side=provider&timestamp=1490949870799, urls: [empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4020&side=provider&timestamp=1490949870799], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:23:17,147][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 17:23:17,679][ServiceBean:107]  [DUBBO] The service ready on spring started. service: com.pepper.common.service.UserService, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:23:17,829][ServiceConfig:510]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to local registry, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:23:17,829][ServiceConfig:470]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=7132&side=provider&timestamp=1490952197708, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:23:17,829][ServiceConfig:481]  [DUBBO] Register dubbo service com.pepper.common.service.UserService url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=7132&side=provider&timestamp=1490952197708 to registry registry://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=dubbo-provider&dubbo=2.5.3&pid=7132&registry=zookeeper&timestamp=1490952197691, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:23:18,119][AbstractServer:69]  [DUBBO] Start NettyServer bind /0.0.0.0:20880, export /192.168.56.1:20880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:23:18,140][AbstractRegistry:232]  [DUBBO] Load registry store file C:\Users\XiaoShou\.dubbo\dubbo-registry-127.0.0.1.cache, data: {com.pepper.common.service.UserService=empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4020&side=provider&timestamp=1490949870799}, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:23:18,155][ZkEventThread:64] Starting ZkClient event thread.
+[INFO ][20170331 17:23:18,205][ZkClient:449] zookeeper state changed (SyncConnected)
+[INFO ][20170331 17:23:18,207][AbstractRegistry:302]  [DUBBO] Register: dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=7132&side=provider&timestamp=1490952197708, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:23:18,290][AbstractRegistry:325]  [DUBBO] Subscribe: provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=7132&side=provider&timestamp=1490952197708, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:23:18,363][AbstractRegistry:422]  [DUBBO] Notify urls for subscribe url provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=7132&side=provider&timestamp=1490952197708, urls: [empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=7132&side=provider&timestamp=1490952197708], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:45:30,215][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 17:45:30,846][ServiceBean:107]  [DUBBO] The service ready on spring started. service: com.pepper.common.service.UserService, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:45:31,006][ServiceConfig:510]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to local registry, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:45:31,006][ServiceConfig:470]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5692&side=provider&timestamp=1490953530880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:45:31,006][ServiceConfig:481]  [DUBBO] Register dubbo service com.pepper.common.service.UserService url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5692&side=provider&timestamp=1490953530880 to registry registry://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=dubbo-provider&dubbo=2.5.3&pid=5692&registry=zookeeper&timestamp=1490953530851, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:45:31,283][AbstractServer:69]  [DUBBO] Start NettyServer bind /0.0.0.0:20880, export /192.168.56.1:20880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:45:31,309][AbstractRegistry:232]  [DUBBO] Load registry store file C:\Users\XiaoShou\.dubbo\dubbo-registry-127.0.0.1.cache, data: {com.pepper.common.service.UserService=empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=7132&side=provider&timestamp=1490952197708}, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:45:31,319][ZkEventThread:64] Starting ZkClient event thread.
+[INFO ][20170331 17:45:31,365][ZkClient:449] zookeeper state changed (SyncConnected)
+[INFO ][20170331 17:45:31,366][AbstractRegistry:302]  [DUBBO] Register: dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5692&side=provider&timestamp=1490953530880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:45:31,461][AbstractRegistry:325]  [DUBBO] Subscribe: provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5692&side=provider&timestamp=1490953530880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 17:45:31,562][AbstractRegistry:422]  [DUBBO] Notify urls for subscribe url provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5692&side=provider&timestamp=1490953530880, urls: [empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5692&side=provider&timestamp=1490953530880], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:03:49,542][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 18:03:50,013][ServiceBean:107]  [DUBBO] The service ready on spring started. service: com.pepper.common.service.UserService, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:03:50,172][ServiceConfig:510]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to local registry, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:03:50,173][ServiceConfig:470]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5032&revision=1.0-SNAPSHOT&side=provider&timestamp=1490954630040, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:03:50,174][ServiceConfig:481]  [DUBBO] Register dubbo service com.pepper.common.service.UserService url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5032&revision=1.0-SNAPSHOT&side=provider&timestamp=1490954630040 to registry registry://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=dubbo-provider&dubbo=2.5.3&pid=5032&registry=zookeeper&timestamp=1490954630023, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:03:50,446][AbstractServer:69]  [DUBBO] Start NettyServer bind /0.0.0.0:20880, export /192.168.56.1:20880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:03:50,472][AbstractRegistry:232]  [DUBBO] Load registry store file C:\Users\XiaoShou\.dubbo\dubbo-registry-127.0.0.1.cache, data: {com.pepper.common.service.UserService=empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5692&side=provider&timestamp=1490953530880}, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:03:50,489][ZkEventThread:64] Starting ZkClient event thread.
+[INFO ][20170331 18:03:50,544][ZkClient:449] zookeeper state changed (SyncConnected)
+[INFO ][20170331 18:03:50,545][AbstractRegistry:302]  [DUBBO] Register: dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5032&revision=1.0-SNAPSHOT&side=provider&timestamp=1490954630040, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:03:50,643][AbstractRegistry:325]  [DUBBO] Subscribe: provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5032&revision=1.0-SNAPSHOT&side=provider&timestamp=1490954630040, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:03:50,723][AbstractRegistry:422]  [DUBBO] Notify urls for subscribe url provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5032&revision=1.0-SNAPSHOT&side=provider&timestamp=1490954630040, urls: [empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5032&revision=1.0-SNAPSHOT&side=provider&timestamp=1490954630040], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:14:29,363][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 18:14:29,842][ServiceBean:107]  [DUBBO] The service ready on spring started. service: com.pepper.common.service.UserService, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:14:29,988][ServiceConfig:510]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to local registry, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:14:29,989][ServiceConfig:470]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4016&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955269868, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:14:29,989][ServiceConfig:481]  [DUBBO] Register dubbo service com.pepper.common.service.UserService url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4016&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955269868 to registry registry://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=dubbo-provider&dubbo=2.5.3&pid=4016&registry=zookeeper&timestamp=1490955269852, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:14:30,286][AbstractServer:69]  [DUBBO] Start NettyServer bind /0.0.0.0:20880, export /192.168.56.1:20880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:14:30,306][AbstractRegistry:232]  [DUBBO] Load registry store file C:\Users\XiaoShou\.dubbo\dubbo-registry-127.0.0.1.cache, data: {com.pepper.common.service.UserService=empty://192.168.56.1/com.pepper.common.service.UserService?application=dubbo-consumer&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6884&revision=1.0-SNAPSHOT&side=consumer&timestamp=1490955218182 empty://192.168.56.1/com.pepper.common.service.UserService?application=dubbo-consumer&category=routers&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6884&revision=1.0-SNAPSHOT&side=consumer&timestamp=1490955218182 empty://192.168.56.1/com.pepper.common.service.UserService?application=dubbo-consumer&category=providers&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6884&revision=1.0-SNAPSHOT&side=consumer&timestamp=1490955218182}, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:14:30,314][ZkEventThread:64] Starting ZkClient event thread.
+[INFO ][20170331 18:14:30,374][ZkClient:449] zookeeper state changed (SyncConnected)
+[INFO ][20170331 18:14:30,375][AbstractRegistry:302]  [DUBBO] Register: dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4016&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955269868, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:14:30,493][AbstractRegistry:325]  [DUBBO] Subscribe: provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4016&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955269868, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:14:30,580][AbstractRegistry:422]  [DUBBO] Notify urls for subscribe url provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4016&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955269868, urls: [empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4016&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955269868], dubbo version: 2.5.3, current host: 127.0.0.1
+[WARN ][20170331 18:14:40,430][AbstractServer:197]  [DUBBO] All clients has discontected from /192.168.56.1:20880. You can graceful shutdown now., dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:14:40,447][DubboProtocol$1:130]  [DUBBO] disconected from /192.168.56.1:6026,url:dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&channel.readonly.sent=true&codec=dubbo&dubbo=2.5.3&heartbeat=60000&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4016&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955269868, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:22:25,215][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 18:22:25,618][ServiceBean:107]  [DUBBO] The service ready on spring started. service: com.pepper.common.service.UserService, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:22:25,756][ServiceConfig:510]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to local registry, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:22:25,756][ServiceConfig:470]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5856&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955745642, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:22:25,757][ServiceConfig:481]  [DUBBO] Register dubbo service com.pepper.common.service.UserService url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5856&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955745642 to registry registry://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=dubbo-provider&dubbo=2.5.3&pid=5856&registry=zookeeper&timestamp=1490955745625, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:22:26,089][AbstractServer:69]  [DUBBO] Start NettyServer bind /0.0.0.0:20880, export /192.168.56.1:20880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:22:26,111][AbstractRegistry:232]  [DUBBO] Load registry store file C:\Users\XiaoShou\.dubbo\dubbo-registry-127.0.0.1.cache, data: {com.pepper.common.service.UserService=empty://192.168.56.1/com.pepper.common.service.UserService?application=dubbo-consumer&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4960&revision=1.0-SNAPSHOT&side=consumer&timestamp=1490955293619 empty://192.168.56.1/com.pepper.common.service.UserService?application=dubbo-consumer&category=routers&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4960&revision=1.0-SNAPSHOT&side=consumer&timestamp=1490955293619 dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=4016&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955269868}, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:22:26,121][ZkEventThread:64] Starting ZkClient event thread.
+[INFO ][20170331 18:22:26,171][ZkClient:449] zookeeper state changed (SyncConnected)
+[INFO ][20170331 18:22:26,172][AbstractRegistry:302]  [DUBBO] Register: dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5856&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955745642, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:22:26,256][AbstractRegistry:325]  [DUBBO] Subscribe: provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5856&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955745642, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:22:26,331][AbstractRegistry:422]  [DUBBO] Notify urls for subscribe url provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5856&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955745642, urls: [empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5856&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955745642], dubbo version: 2.5.3, current host: 127.0.0.1
+[WARN ][20170331 18:25:12,339][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=2, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@65f3d34], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:25:12,371][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=3, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@42b6324c], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:25:12,380][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=4, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@45dbe6cb], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:26:17,410][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=5, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@720d703c], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:26:17,423][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=6, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@622b21df], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:26:17,436][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=7, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@1e38831b], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:26:45,451][AbstractServer:197]  [DUBBO] All clients has discontected from /192.168.56.1:20880. You can graceful shutdown now., dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:26:45,469][DubboProtocol$1:130]  [DUBBO] disconected from /192.168.56.1:6242,url:dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&channel.readonly.sent=true&codec=dubbo&dubbo=2.5.3&heartbeat=60000&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5856&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955745642, dubbo version: 2.5.3, current host: 127.0.0.1
+[WARN ][20170331 18:27:36,442][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=0, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@60ffee0f], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:27:36,463][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=1, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@1053b388], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:27:36,482][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=2, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@52f49a6a], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:28:15,536][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=3, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@d518957], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:28:15,558][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=4, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@7c6ca4e6], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:28:15,566][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=5, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@248b3bc7], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:28:39,175][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=6, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@6ed41e78], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:28:39,194][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=7, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@465b59a6], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20170331 18:28:39,204][ExchangeCodec:296]  [DUBBO] Fail to encode response: Response [id=8, version=2.0.0, status=20, event=false, error=null, result=RpcResult [result=[com.pepper.common.model.User@7be43eaa], exception=null]], send bad_response info instead, cause: Serialized class com.pepper.common.model.User must implement java.io.Serializable, dubbo version: 2.5.3, current host: 127.0.0.1
+java.lang.IllegalStateException: Serialized class com.pepper.common.model.User must implement java.io.Serializable
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:261)
+	at com.alibaba.com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:233)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:406)
+	at com.alibaba.com.caucho.hessian.io.CollectionSerializer.writeObject(CollectionSerializer.java:102)
+	at com.alibaba.com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:408)
+	at com.alibaba.dubbo.common.serialize.support.hessian.Hessian2ObjectOutput.writeObject(Hessian2ObjectOutput.java:92)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCodec.encodeResponseData(DubboCodec.java:200)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encodeResponse(ExchangeCodec.java:276)
+	at com.alibaba.dubbo.remoting.exchange.codec.ExchangeCodec.encode(ExchangeCodec.java:77)
+	at com.alibaba.dubbo.rpc.protocol.dubbo.DubboCountCodec.encode(DubboCountCodec.java:39)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyCodecAdapter$InternalEncoder.encode(NettyCodecAdapter.java:81)
+	at org.jboss.netty.handler.codec.oneone.OneToOneEncoder.handleDownstream(OneToOneEncoder.java:66)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendDownstream(DefaultChannelPipeline.java:776)
+	at org.jboss.netty.channel.SimpleChannelHandler.writeRequested(SimpleChannelHandler.java:304)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyHandler.writeRequested(NettyHandler.java:99)
+	at org.jboss.netty.channel.SimpleChannelHandler.handleDownstream(SimpleChannelHandler.java:266)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:591)
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:582)
+	at org.jboss.netty.channel.Channels.write(Channels.java:611)
+	at org.jboss.netty.channel.Channels.write(Channels.java:578)
+	at org.jboss.netty.channel.AbstractChannel.write(AbstractChannel.java:251)
+	at com.alibaba.dubbo.remoting.transport.netty.NettyChannel.send(NettyChannel.java:98)
+	at com.alibaba.dubbo.remoting.transport.AbstractPeer.send(AbstractPeer.java:51)
+	at com.alibaba.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:171)
+	at com.alibaba.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:52)
+	at com.alibaba.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO ][20170331 18:30:43,187][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 18:30:43,700][ServiceBean:107]  [DUBBO] The service ready on spring started. service: com.pepper.common.service.UserService, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:30:43,817][ServiceConfig:510]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to local registry, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:30:43,818][ServiceConfig:470]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6228&side=provider&timestamp=1490956243728, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:30:43,818][ServiceConfig:481]  [DUBBO] Register dubbo service com.pepper.common.service.UserService url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6228&side=provider&timestamp=1490956243728 to registry registry://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=dubbo-provider&dubbo=2.5.3&pid=6228&registry=zookeeper&timestamp=1490956243710, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:30:44,071][AbstractServer:69]  [DUBBO] Start NettyServer bind /0.0.0.0:20880, export /192.168.56.1:20880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:30:44,086][AbstractRegistry:232]  [DUBBO] Load registry store file C:\Users\XiaoShou\.dubbo\dubbo-registry-127.0.0.1.cache, data: {com.pepper.common.service.UserService=empty://192.168.56.1/com.pepper.common.service.UserService?application=dubbo-consumer&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6120&revision=1.0-SNAPSHOT&side=consumer&timestamp=1490956025386 empty://192.168.56.1/com.pepper.common.service.UserService?application=dubbo-consumer&category=routers&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6120&revision=1.0-SNAPSHOT&side=consumer&timestamp=1490956025386 dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=5856&revision=1.0-SNAPSHOT&side=provider&timestamp=1490955745642}, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:30:44,096][ZkEventThread:64] Starting ZkClient event thread.
+[INFO ][20170331 18:30:44,292][ZkClient:449] zookeeper state changed (SyncConnected)
+[INFO ][20170331 18:30:44,294][AbstractRegistry:302]  [DUBBO] Register: dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6228&side=provider&timestamp=1490956243728, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:30:44,394][AbstractRegistry:325]  [DUBBO] Subscribe: provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6228&side=provider&timestamp=1490956243728, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:30:44,460][AbstractRegistry:422]  [DUBBO] Notify urls for subscribe url provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6228&side=provider&timestamp=1490956243728, urls: [empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6228&side=provider&timestamp=1490956243728], dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:35:29,659][?:?] using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[INFO ][20170331 18:35:30,132][ServiceBean:107]  [DUBBO] The service ready on spring started. service: com.pepper.common.service.UserService, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:35:30,299][ServiceConfig:510]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to local registry, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:35:30,299][ServiceConfig:470]  [DUBBO] Export dubbo service com.pepper.common.service.UserService to url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6156&revision=1.0-SNAPSHOT&side=provider&timestamp=1490956530155, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:35:30,299][ServiceConfig:481]  [DUBBO] Register dubbo service com.pepper.common.service.UserService url dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6156&revision=1.0-SNAPSHOT&side=provider&timestamp=1490956530155 to registry registry://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=dubbo-provider&dubbo=2.5.3&pid=6156&registry=zookeeper&timestamp=1490956530139, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:35:30,694][AbstractServer:69]  [DUBBO] Start NettyServer bind /0.0.0.0:20880, export /192.168.56.1:20880, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:35:30,716][AbstractRegistry:232]  [DUBBO] Load registry store file C:\Users\XiaoShou\.dubbo\dubbo-registry-127.0.0.1.cache, data: {com.pepper.common.service.UserService=empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6228&side=provider&timestamp=1490956243728}, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:35:30,724][ZkEventThread:64] Starting ZkClient event thread.
+[INFO ][20170331 18:35:30,778][ZkClient:449] zookeeper state changed (SyncConnected)
+[INFO ][20170331 18:35:30,779][AbstractRegistry:302]  [DUBBO] Register: dubbo://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6156&revision=1.0-SNAPSHOT&side=provider&timestamp=1490956530155, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:35:30,888][AbstractRegistry:325]  [DUBBO] Subscribe: provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6156&revision=1.0-SNAPSHOT&side=provider&timestamp=1490956530155, dubbo version: 2.5.3, current host: 127.0.0.1
+[INFO ][20170331 18:35:30,956][AbstractRegistry:422]  [DUBBO] Notify urls for subscribe url provider://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6156&revision=1.0-SNAPSHOT&side=provider&timestamp=1490956530155, urls: [empty://192.168.56.1:20880/com.pepper.common.service.UserService?anyhost=true&application=dubbo-provider&category=configurators&check=false&dubbo=2.5.3&interface=com.pepper.common.service.UserService&methods=getAllUsers,getUserById&pid=6156&revision=1.0-SNAPSHOT&side=provider&timestamp=1490956530155], dubbo version: 2.5.3, current host: 127.0.0.1
